@@ -1,1 +1,1 @@
-# Crie um programa que escreva 'Eae, Beleza?' na tela.
+Crie um programa que escreva 'Eae, Beleza?' na tela.
