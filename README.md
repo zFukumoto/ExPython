@@ -1,1 +1,1 @@
-Crie um programa que escreva 'Eae, Beleza?' na tela.
+Exercícios de Python durante minha aprendizagem.
