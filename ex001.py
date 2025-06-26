@@ -1,4 +1,3 @@
-# Crie um programa que escreva 'Eae, Beleza?' na tela.
 # Forma 1
 msg = ('Eae, Beleza?')
 print(msg)
