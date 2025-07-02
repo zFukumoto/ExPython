@@ -10,7 +10,7 @@
   📚 Sobre os Exercícios
 </h2>
 <p align="center">
-  Esses exercícios são disponibilizados gratuitamente pelo <strong>Professor Guanabara</strong>, por meio da plataforma <strong>Curso em Vídeo</strong>.
+  Esses exercícios são disponibilizados gratuitamente pelo <strong>Professor Guanabara</strong>, por meio do canal <strong>Curso em Vídeo</strong>.
   Eles estão organizados em <strong>3 Mundos de Aprendizagem</strong>, sendo:
 </p> 
 <table align="center">
