@@ -2,8 +2,7 @@
   📘 Exercícios de Python durante minha aprendizagem
 </h1>
 <p align="center">
-  <em>Diversos tipos de exercícios realizados por mim que mostram diferentes usos da linguagem para realizar tarefas,<br>
-  aos poucos evoluindo a complexidade.</em>
+  <em>Diversos tipos de exercícios realizados por mim que mostram diferentes usos da linguagem para realizar tarefas, aos poucos evoluindo a complexidade.</em>
 </p>
 <br>
 <h2 align="center"> 
