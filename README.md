@@ -14,15 +14,23 @@
 </p> 
 <table align="center">
   <tr>
-    <td><strong>🌍 Mundo 1</strong></td>
+    <td><strong>Mundo</strong></td>
+    <td><strong>Conteúdo</strong></td>
+    <td><strong>Progresso</strong></td>
+  </tr>
+  <tr align="center">
+    <td>1º</td>
     <td>Fundamentos</td>
+    <td>🟨</td>
   </tr>
-  <tr>
-    <td><strong>🧭 Mundo 2</strong></td>
+  <tr align="center">
+    <td>2º</td>
     <td>Estruturas de Controle</td>
+    <td>🟥</td>
   </tr>
-  <tr>
-    <td><strong>🧩 Mundo 3</strong></td>
+  <tr align="center">
+    <td>3º</td>
     <td>Estruturas Compostas</td>
+    <td>🟥</td>
   </tr>
 </table>
