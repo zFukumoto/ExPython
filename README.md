@@ -21,12 +21,12 @@
   <tr align="center">
     <td>1º</td>
     <td>Fundamentos</td>
-    <td>🟨</td>
+    <td>🟩</td>
   </tr>
   <tr align="center">
     <td>2º</td>
     <td>Estruturas de Controle</td>
-    <td>🟥</td>
+    <td>🟨</td>
   </tr>
   <tr align="center">
     <td>3º</td>
